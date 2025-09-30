@@ -1,3 +1,16 @@
+/* memberi warna biru pada heading 1 */
 h1 {
   color: blue;
+}
+
+/* memberi jarak atas bawah 20px pada tiap paragraf */
+p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* memberikan warna soft pada halaman & mengganti seluruh font */
+body {
+  background-color: lightgoldenrodyellow;
+  font-family: sans-serif;
 }
